@@ -1,0 +1,7 @@
+{
+  "attr-bans": ["style"],
+  "tag-bans": ["style"],
+  "tagname-lowercase": true,
+  "doctype-html5": true,
+  "img-alt-require": true
+}
